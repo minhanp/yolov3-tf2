@@ -6,7 +6,7 @@
 /serving/*
 /logs/
 /Untitled.ipynb
-/output.jpg
+# /output.jpg
 /data/voc2012_raw/
 
 # Created by https://www.gitignore.io/api/python
